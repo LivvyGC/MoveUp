@@ -1,0 +1,2 @@
+[functions.signal]
+verify_jwt = false
